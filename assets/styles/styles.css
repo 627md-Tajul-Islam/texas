@@ -105,3 +105,35 @@
     font-weight: bold
 }
 /* #suki(s1fae57451461b568) #css ends  */
+
+/* #single(eb6af6ab30a03fde) #css starts  */
+.serviceeb6af6ab30a03fde{
+    background: #eee
+}
+.serviceeb6af6ab30a03fde span{
+    font-size:15px
+}
+.serviceeb6af6ab30a03fde .box{
+    padding:40px 0px
+}
+
+.serviceeb6af6ab30a03fde .box-part{
+    background:#FFF;
+    border-radius:0;
+    padding:60px 10px;
+    margin:30px 0px
+}
+.serviceeb6af6ab30a03fde .text{
+    margin:20px 0px
+}
+
+.serviceeb6af6ab30a03fde .fa{
+ color: aqua;
+ margin-left: 25px
+}
+@media (max-width: 576px) {
+    .serviceeb6af6ab30a03fde .box-part{
+            text-align: center
+        }
+}
+/* #single(eb6af6ab30a03fde) #css ends  */
