@@ -108,7 +108,7 @@
 
 /* #single(eb6af6ab30a03fde) #css starts  */
 .serviceeb6af6ab30a03fde{
-    background: #F7F5FA
+    background: #eee
 }
 .serviceeb6af6ab30a03fde span{
     font-size:15px
@@ -128,12 +128,6 @@
 }
 
 .serviceeb6af6ab30a03fde .fa{
- color: aqua;
- margin-left: 25px
-}
-@media (max-width: 576px) {
-    .serviceeb6af6ab30a03fde .box-part{
-            text-align: center
-        }
+ color: aqua
 }
 /* #single(eb6af6ab30a03fde) #css ends  */
