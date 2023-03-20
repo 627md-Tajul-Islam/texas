@@ -1,12 +1,35 @@
 /* #hasis(e2d79a3ca0c8814a) #css starts  */
 .headere2d79a3ca0c8814a .head{ 
-    color: red;
+    color: red
 }
 .headere2d79a3ca0c8814a .button{
     background-color: rgb(255, 187, 0);
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     font-weight: bold;
-    border-radius: 12px;
+    border-radius: 12px
 }
 /* #hasis(e2d79a3ca0c8814a) #css ends  */
+
+/* #agadu(h66a519b827a7d261) #css starts  */
+.abouth66a519b827a7d261 .DescriptionHeading {
+    font-size: 34px;
+    color: #0A033C
+}
+
+.abouth66a519b827a7d261 .DescriptionPara {
+    color: #0A033C;
+    font-size: 18px
+}
+
+.abouth66a519b827a7d261 .descriptionImage img{
+    height: 400px;
+    width: 500px
+}
+.abouth66a519b827a7d261 .searchBtn{
+    background-color:#1DA599;
+    border-radius: 7px;
+    color: white;
+    font-weight: bold
+}
+/* #agadu(h66a519b827a7d261) #css ends  */
 
