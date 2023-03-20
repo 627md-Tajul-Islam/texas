@@ -65,3 +65,26 @@
         height: 100px
     }
 /* #cactus(c21250bc5580fa9c2) #css ends  */
+
+/* #agadu(bf5e9e9e7ee746db) #css starts  */
+.aboutbf5e9e9e7ee746db .DescriptionHeading {
+    font-size: 34px;
+    color: #0A033C
+}
+
+.aboutbf5e9e9e7ee746db .DescriptionPara {
+    color: #0A033C;
+    font-size: 18px
+}
+
+.aboutbf5e9e9e7ee746db .descriptionImage img{
+    height: 400px;
+    width: 500px
+}
+.aboutbf5e9e9e7ee746db .searchBtn{
+    background-color:#A560F4 ;
+    border-radius: 7px;
+    color: white;
+    font-weight: bold
+}
+/* #agadu(bf5e9e9e7ee746db) #css ends  */
